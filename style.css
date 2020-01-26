@@ -110,7 +110,12 @@ body{
 .container .card:hover .contentBx{
     transform: scale(0.98);
 } 
-
+.fixed{
+    background-image: url(image/shotstash_0042-1.jpg);
+}
+.col-md-4 img{
+    box-shadow: 0 10px 15px rgba(0,0,0,0.5);
+}
 
 
 /*
